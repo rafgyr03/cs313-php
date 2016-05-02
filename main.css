@@ -36,13 +36,14 @@
 }
 
 .main {
-  width: 75%;
-  margin-left: 50px;
-  margin-right: 50px;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 18px;
 }
 
 .assign {
-  color: blue;
+  color: #0090da;
   font-size: 28px;
 }
 
