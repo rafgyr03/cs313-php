@@ -41,10 +41,6 @@
   margin-right: 50px;
 }
 
-.names li {
-  padding: 10px;
-}
-
 .assign {
   color: blue;
   font-size: 28px;
@@ -58,14 +54,4 @@ h1 {
 h2, h3 {
   text-align: center;
   font-family: sans-serif;
-}
-
-footer {
-  text-align: center;
-}
-
-hr {  
-  height: 10px;
-  border: 0;
-  box-shadow: 0 10px 10px -10px #9aca3c inset;
 }
