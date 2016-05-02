@@ -1,0 +1,71 @@
+.top ul {
+   list-style-type: none;
+   width: 100%;
+   margin: auto;
+   padding: 0;
+   background-color: #0090da;
+   overflow: hidden;
+}
+
+.top li {  
+  float: left;
+  font-size: 20px;
+}
+
+.top li a:link {    
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    font-family: "Impact", sans-serif;
+    padding: 10px 15px 10px 15px;
+    color: white;
+}
+
+.top li:hover {
+   background-color: #9aca3c;
+}
+
+.top {   
+   overflow: auto;   
+   margin-left: -8px;
+   margin-right: -8px;
+   background-image: url("http://www.userlogos.org/files/logos/Sastre/BYUI2.png");
+   background-position: top right;
+   background-repeat: no-repeat;
+   background-size: 10%;
+}
+
+.main {
+  width: 75%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.names li {
+  padding: 10px;
+}
+
+.assign {
+  color: blue;
+  font-size: 28px;
+}
+
+h1 {
+  margin-left: 20px;
+  color: #0090da;
+}
+
+h2, h3 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+hr {  
+  height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #9aca3c inset;
+}
